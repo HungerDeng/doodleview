@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/skin_day"
+          android:title="日间模式"/>
+
+    <item android:id="@+id/skin_night"
+        android:title="夜间模式"/>
+
+    <item android:id="@+id/skin_blue"
+        android:title="蓝色"/>
+
+    <item android:id="@+id/skin_green"
+        android:title="绿色"/>
+
+    <item android:id="@+id/font_normal"
+        android:title="默认字体"/>
+
+    <item android:id="@+id/font_weiRuan"
+        android:title="微软雅黑"/>
+
+
+</menu>
