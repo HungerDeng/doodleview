@@ -9,7 +9,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
         <activity android:name=".doodle.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,13 +18,15 @@
         </activity>
 
         <!-- <activity android:name=".tangram.TangramActivity"> -->
- <!--       <activity android:name=".skin.SkinActivity">
+        <!--
+            <activity android:name=".skin.SkinActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>-->
+        </activity>
+        -->
     </application>
 
 </manifest>

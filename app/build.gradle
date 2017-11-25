@@ -37,4 +37,6 @@ dependencies {
     compile('com.alibaba.android:vlayout:1.2.0@aar') {
         transitive = true
     }
+
+
 }

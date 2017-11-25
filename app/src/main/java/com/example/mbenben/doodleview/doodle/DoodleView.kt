@@ -21,6 +21,9 @@ import android.view.View
  * Created by MBENBEN on 2017/8/31.
  */
 
+//会报空指针的错误，还没Debug出来
+//learn from：http://www.jianshu.com/p/f05f71446771
+
 class DoodleView : SurfaceView,SurfaceHolder.Callback {
     val TAG="DoodleView"
 
